@@ -71,9 +71,9 @@ python reverse_chars.py
   * Skip spaces or special characters
   * Check for palindromes
 
-## 📄 License
+## 📬 Contact  
 
-This program is open-source and available under the **MIT License**.
-Feel free to use it for learning and modify as needed!
+For any inquiries or feedback, feel free to reach out:    
+🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde)  
 
 
