@@ -33,15 +33,6 @@ h
 * Loop from `1` to `length + 1`.
 * In each iteration, access and print the character from the end using index `length - i`.
 
-## 🧾 Code
-
-```python
-a = input("Enter a string: ")
-length = len(a)
-for i in range(1, length + 1):
-    print(a[length - i])
-```
-
 ## 🛠️ How to Run
 
 1. Save the code in a file, for example: `reverse_chars.py`
