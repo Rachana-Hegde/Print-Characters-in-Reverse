@@ -1,7 +1,3 @@
-Here’s a clean and beginner-friendly **README.md** for your Python program that **prints characters in reverse**:
-
----
-
 # 🔁 Print Characters in Reverse – Python Program
 
 This simple Python program takes a string input from the user and prints each character **in reverse order**, one character per line. It's a great practice task for string handling and loop concepts.
@@ -50,23 +46,19 @@ for i in range(1, length + 1):
 
 1. Save the code in a file, for example: `reverse_chars.py`
 2. Run it using Python:
-
 ```bash
 python reverse_chars.py
 ```
-
 3. Enter any string to see its characters printed in reverse.
 
 ## 🎯 Use Case
 
 * Useful for learning:
-
   * String indexing
   * Loops and iteration
   * Working with user input
 
 * Can be extended to:
-
   * Print the reversed string on a single line
   * Skip spaces or special characters
   * Check for palindromes
